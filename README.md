@@ -1,7 +1,20 @@
 ![](https://packages.nodebb.org/api/v1/plugins/nodebb-plugin-category-queue/compatibility.png)
-# Category Queue
 
-A simple plugin that allows you to automatically queue all new topics (**not posts! Just topics**) in selected categories
+# Category Queue FIX  板块审核队列
+
+support nodebb3.0RC
+
+A simple plugin that allows you to automatically queue all new topics (**not posts! Just topics**) in selected categorieskk
+
+可以区分帖子的队列
+
+未来实现
+
+1.用户白名单
+
+2.管理员白名单
+
+3.通知指定板块版主和所有admin管理员进行审核
 
 ## Installation
 
